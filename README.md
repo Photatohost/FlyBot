@@ -15,11 +15,13 @@
  <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/Dana & Qriss All Payment-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+### MARI BERNEGOSIASI
 ### Harga Script
 - ✔️ | **H1 30k**
 - ✔️ | **H2 40K** 
 - ✔️ | **H3 50k** 
 ---------
+
 **Special Fitur :**
 - [x] Email verifikasi
 - [x] Jadianime 6 stile
