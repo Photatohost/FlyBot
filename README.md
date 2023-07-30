@@ -15,7 +15,32 @@
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-ReellyXD-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
- ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif
+
+### Harga Script
+- ✔️ | **H1 30k**
+- ✔️ | **H2 40K** 
+- ✔️ | **H3 50k** 
+- ✔️ | **H4 70k** 
+---------
+### Fitur Langka(no pasaran)
+- ✔️ | Regmail
+- ✔️ | Jadianime 2 versi (6 Stile)
+- ✔️ | Send email
+- ✔️ | Buyprem otomatis 
+- ✔️ | Sticker 
+- ✔️ | Kerang Ajaib 
+- ✔️ | Quotes
+- ✔️ | Anime 
+- ✔️ | Premium 
+- ✔️ | Tools 
+---------
+
+## PENTING
+
+> **Warning**: Jangan Memperjual Belikan Script Ini. 
+
+
+ ```Connect With Me 📞```
 
  ```Whatsapp Reelly``` <a href="https://wa.me/6282195322106"> <img align="left" alt="Reelly | Whastapp" width="26px" src="https://telegra.ph/file/7be9485894ebdcd81ddfb.jpg" />
  
