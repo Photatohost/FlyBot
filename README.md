@@ -20,24 +20,26 @@
 - ✔️ | **H1 30k**
 - ✔️ | **H2 40K** 
 - ✔️ | **H3 50k** 
-- ✔️ | **H4 70k** 
 ---------
-### Fitur Langka(no pasaran)
-- ✔️ | Regmail
-- ✔️ | Jadianime 2 versi (6 Stile)
-- ✔️ | Send email
-- ✔️ | Buyprem otomatis 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
----------
+**Special Fitur :**
+- [x] Email verifikasi
+- [x] Jadianime 6 stile
+- [x] Store
+- [x] Buyprem otomatis
+- [x] Send email
+- [x] full Rpg & Game
+- [x] Autobackup database
 
-## PENTING
+## HARGA:
 
-> **Warning**: Jangan Memperjual Belikan Script Ini. 
+> **H1**:
+> No free apikey & No update
+> 
+> **H2**:
+> free apikey & Free 2× update
+> 
+> **H3**:
+> free apikey Vip & Free 5× update
 
 
  ```Connect With Me 📞```
