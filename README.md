@@ -24,6 +24,7 @@
 
 **Special Fitur :**
 - [x] Email verifikasi
+- [x] Antiporn
 - [x] Jadianime 6 stile
 - [x] Store
 - [x] Buyprem otomatis
