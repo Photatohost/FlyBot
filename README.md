@@ -8,9 +8,11 @@
 <p align="center">
   <a href="https://github.com/ReellyXD/FlyBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fly+Bot+Multi+Device;Config+by+ReellyXD;Ada+harga,+Ada+kualitas;Subscribe+YT:+Reelly+XD;Follow+My+Github" alt="UwU">
 </p>
+<p align="center">
+ <a href="#"><img title="Payment Only " src="https://img.shields.io/badge/PAYMENT Only-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
- <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/PAYMENT Only dana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/Dana & Qriss All Payment-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ### Harga Script
