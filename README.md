@@ -41,8 +41,9 @@
 
  ```Minat? hubungi 📞```
 
- ```Whatsapp Reelly``` <a href="https://wa.me/62857043685323"> <img align="left" alt="Reelly | Whastapp" width="26px" src="https://telegra.ph/file/3499105322bdbb6ff9900.jpg" />
+ ```Klik Button dibawah``` 
  
+[![WHATSAPP REELLY](https://img.shields.io/badge/WhatsApp%20REELY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62857043685323) 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281335334848) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KdSSsPqf3Sz0SqCTPsYg6L) 
 ---------
