@@ -9,10 +9,10 @@
   <a href="https://github.com/ReellyXD/FlyBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fly+Bot+Multi+Device;Config+by+ReellyXD;Ada+harga,+Ada+kualitas;Subscribe+YT:+Reelly+XD;Follow+My+Github" alt="UwU">
 </p>
 <p align="center">
- <a href="#"><img title="Payment Only " src="https://img.shields.io/badge/PAYMENT Only-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Payment" src="https://img.shields.io/badge/PAYMENT DANA & Gopay-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
- <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/Dana & Qriss All Payment-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/Qris allpay ( +1k )-green?colorA=%23ff0000&f0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ### MARI BERNEGOSIASI
@@ -52,3 +52,10 @@
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281335334848) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KdSSsPqf3Sz0SqCTPsYg6L) 
 ---------
+
+### Versi 1.0
+```bash
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
