@@ -56,6 +56,10 @@
 ### Versi 1.0 ( Completed )
 ```featured totals ±480```
 ### Versi 2.0 ( UnCompleted )
-```Add notifikasi mode grup only```
-```Add Fitur tiktokslide```
-```Fixed Fitur translate```
+```bash
+Add notifikasi mode grup only
+Add Fitur tiktokslide
+Fixed Fitur translate
+Add fitur voice changer
+Add fitur akinator
+```
