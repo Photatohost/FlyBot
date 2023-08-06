@@ -61,5 +61,8 @@ Add notifikasi mode grup only
 Add Fitur tiktokslide
 Fixed Fitur translate
 Add fitur voice changer
-Add fitur akinator
+Add fitur akinato
+Update Baileys, to WhiskeySockets
+Add fitur edit pesan
+dan lain-lain
 ```
