@@ -64,5 +64,6 @@ Add fitur voice changer
 Add fitur akinato
 Update Baileys, to WhiskeySockets
 Add fitur edit pesan
+Add fitur kenon
 dan lain-lain
 ```
