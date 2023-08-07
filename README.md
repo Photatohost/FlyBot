@@ -65,6 +65,7 @@ Add fitur akinato
 Update Baileys, to WhiskeySockets
 Add fitur edit pesan
 Add fitur kenon
+Update image welcome
 dan lain-lain
 ```
 ```featured totals ±520```
