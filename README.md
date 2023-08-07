@@ -15,7 +15,6 @@
  <a href="#"><img title="Payment Only Dana" src="https://img.shields.io/badge/Qris allpay ( +1k )-green?colorA=%23ff0000&f0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-### MARI BERNEGOSIASI
 ### Harga Script
 - ✔️ | **H1 30k**
 - ✔️ | **H2 40K** 
@@ -30,6 +29,7 @@
 - [x] Buyprem otomatis
 - [x] Send email
 - [x] full Rpg & Game
+- [x] Kenon
 - [x] Autobackup database
 
 ## HARGA:
@@ -55,7 +55,7 @@
 
 ### Versi 1.0 ( Completed )
 ```featured totals ±480```
-### Versi 2.0 ( UnCompleted )
+### Versi 2.0 ( Completed )
 ```bash
 Add notifikasi mode grup only
 Add Fitur tiktokslide
@@ -67,3 +67,4 @@ Add fitur edit pesan
 Add fitur kenon
 dan lain-lain
 ```
+```featured totals ±520```
