@@ -38,10 +38,10 @@
 > No free apikey & No update
 > 
 > **H2**:
-> free apikey & Free 2× update
+> free apikey & Free 1× update
 > 
 > **H3**:
-> free apikey Vip & Free 5× update
+> free apikey Vip & Free 4× update
 
 
  ```Minat? hubungi 📞```
@@ -68,3 +68,8 @@ Add fitur kenon
 dan lain-lain
 ```
 ```featured totals ±520```
+### Versi 3.0 ( Cooming soon)
+```bash
+Akan datang
+```
+
