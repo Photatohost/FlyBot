@@ -49,7 +49,7 @@
  ```Klik Button dibawah``` 
  
 [![WHATSAPP REELLY](https://img.shields.io/badge/WhatsApp%20REELY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62857043685323) 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281335334848) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628111111111) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KdSSsPqf3Sz0SqCTPsYg6L) 
 ---------
 
